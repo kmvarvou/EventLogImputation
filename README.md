@@ -12,6 +12,10 @@ Before running the code, please install the `pm4py` library using the following 
 
 ```sh
 pip install pm4py
-
+```
 
 ##Execution
+```
+python LogPreprocessing.py log_file_name preprocesssing_flavor
+```
+-preprocessing_flavor: trace_based, cluster_based, length_based
