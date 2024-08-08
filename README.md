@@ -14,7 +14,12 @@ Before running the code, please install the `pm4py` library using the following 
 ```sh
 pip install pm4py
 
-**Execution**
+## **Execution**
+
+To execute the code, use the following command:
+
+```sh
 python LogPreprocessing.py -log_file_name -preprocessing_flavor
+
 
 
