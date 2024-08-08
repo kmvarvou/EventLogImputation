@@ -1,13 +1,19 @@
 # EventLogImputation
-The provided code provides an implementation for the approaches presented in the following paper: Data Imputation for Business Process Event Logs Konstantinos Varvoutas and Anastasios Gounaris. Preprint submitted to Enterprise Information Systems.
 
+The provided code offers an implementation of the approaches presented in the following paper: **Data Imputation for Business Process Event Logs** by Konstantinos Varvoutas and Anastasios Gounaris. *Preprint submitted to Enterprise Information Systems*.
 
-The code was implemented using the  pm4py python library(https://pypi.org/project/pm4py/)
-Please install pm4py before attempting to execute it, via the following command:
+## Introduction
+
+This repository contains the code for data imputation in business process event logs, implemented using the `pm4py` Python library.
+
+## Installation
+
+Before running the code, please install the `pm4py` library using the following command:
+
+```sh
 pip install pm4py
-
+**
 Execution
-
 python LogPreprocessing.py -log_file_name -preprocessing_flavor
 
 
