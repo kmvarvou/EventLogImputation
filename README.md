@@ -1,7 +1,7 @@
 # EventLogImputation
 
 The provided code offers an implementation of the approaches presented in the following paper: 
-**Data Imputation for Business Process Event Logs** by Konstantinos Varvoutas and Anastasios Gounaris. *Preprint submitted to Journal of Business Analytis*.
+**Data Imputation for Business Process Event Logs** by Konstantinos Varvoutas and Anastasios Gounaris. *Preprint submitted to Journal of Business Analytics*.
 
 ## Introduction
 
