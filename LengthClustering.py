@@ -77,11 +77,7 @@ def main(input_file_name):
             continue
         log_variants = pm4py.get_variants(log)
 
-        if len(log_variants) == 1:
 
-            pm4py.write_xes(log, output_path + file)
-            count_trace += len(log)
-            continue
         i = 0
         j = 0
         rows = log_length
