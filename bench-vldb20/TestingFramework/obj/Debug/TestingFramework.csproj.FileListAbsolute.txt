@@ -1,0 +1,7 @@
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/bin/Debug/TestingFramework.exe.config
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/bin/Debug/TestingFramework.exe
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/bin/Debug/TestingFramework.pdb
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/obj/Debug/TestingFramework.csproj.AssemblyReference.cache
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/obj/Debug/TestingFramework.csproj.CoreCompileInputs.cache
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/obj/Debug/TestingFramework.exe
+/home/kostis/Downloads/bench-vldb20-master/TestingFramework/obj/Debug/TestingFramework.pdb
