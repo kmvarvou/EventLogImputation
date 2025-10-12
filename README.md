@@ -1,7 +1,7 @@
 # EventLogImputation
 
 The provided code offers an implementation of the approaches presented in the following paper: 
-**Data Imputation for Business Process Event Logs** *Preprint submitted to Journal of Business Analytics*.
+**Data Imputation for Business Process Event Logs** *Preprint submitted to SN Computer Science*.
 
 ## Introduction
 
