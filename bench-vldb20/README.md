@@ -38,11 +38,15 @@ All results and plots will be added to `Results` folder. The accuracy results of
 ### Execution examples
 
 
-1. Run cdrec on all datasets using the MCAR scenario
+- 1. Run cdrec on all datasets using the MCAR scenario
+```bash
 $ mono TestingFramework.exe -alg cdrec -d all -scen mcar
+```
 
-2. Run dynammo on all datasets using the MCAR scenario
+- 2. Run dynammo on all datasets using the MCAR scenario
+```bash
 $ mono TestingFramework.exe -alg dynammo -d all -scen mcar
+```
 
 
 
